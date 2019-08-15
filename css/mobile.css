@@ -1,0 +1,26 @@
+@media (max-width: 600px) {
+	.products{
+		display: inherit;
+		height: auto;
+		/*max-height: none;*/
+	}
+	.product{
+		margin-top: auto;
+	}
+	.main_section{
+		padding: 4%;
+	}
+	.exhibitions, .mentions{
+		display: inherit;
+		margin-top: auto;
+		height: auto;
+		max-height: none;
+		padding: 4%;
+
+	}
+
+	.mention .content2{
+		padding-bottom: 30%;
+  		padding-top: 30%;
+	}
+}
